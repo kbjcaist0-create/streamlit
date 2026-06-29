@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+wordcloud
+pymysql
+gradio
+streamlit
+langchain-community
+scikit-learn
+ydata-profiling
+tensorflow
+sqlalchemy
